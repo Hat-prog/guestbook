@@ -1,7 +1,7 @@
 // Fetch and display
 const display = document.getElementById("app");
 const form = document.getElementById("form");
-const baseURL = "http://localhost:4242";
+const baseURL = "https://guestbook-pyec.onrender.com";
 
 // GET route from the server
 async function fetchData() {
